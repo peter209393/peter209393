@@ -1,69 +1,21 @@
 # Hi, I'm Peter Wang 👋
 
-Senior Backend Engineer focused on building reliable, scalable backend systems.
+**Senior Backend Engineer** with 11+ years building reliable, scalable systems — backend platforms, distributed systems, payments, and data infrastructure.
 
-I have 11+ years of software engineering experience across backend platforms, distributed systems, payment systems, data infrastructure, and high-performance services.
-
-I enjoy turning complex business and technical problems into clean, maintainable, production-ready systems.
+I turn complex problems into clean, production-ready systems. Currently exploring LLMs, RAG, and AI agents.
 
 ---
 
-## About Me
+## 🛠️ Tech Stack
 
-- Senior Backend Engineer with strong experience in Go, Rust, PHP and TypeScript
-- Experienced in designing APIs, backend services, data pipelines and distributed systems
-- Built systems involving payments, high-concurrency services, real-time data processing and infrastructure platforms
-- Comfortable working with databases, message queues, Linux servers, cloud services and production environments
-- Currently exploring AI applications, LLMs, RAG, embeddings and AI agents
-
----
-
-## Tech Stack
-
-### Languages
-
-Go • Rust • PHP • TypeScript
-
-### Backend
-
-REST APIs • Microservices • Event-driven Architecture • System Design • High-concurrency Services
-
-### Databases
-
-PostgreSQL • MySQL • Redis • ClickHouse • MongoDB
-
-### Infrastructure
-
-Linux • Docker • Nginx • Caddy • GitHub Actions • Terraform
-
-### Cloud & Tools
-
-AWS • Cloudflare • DigitalOcean • Railway • S3 • Git • CI/CD
+**Languages:** Go · Rust · PHP · TypeScript
+**Backend:** Microservices · Event-driven Architecture · High-concurrency Services
+**Data:** PostgreSQL · MySQL · Redis · ClickHouse · MongoDB
+**Infra & Cloud:** Docker · Terraform · AWS · Cloudflare · Nginx · CI/CD
 
 ---
 
-## Current Focus
+## 📫 Contact
 
-- Backend Architecture
-- Distributed Systems
-- Cloud-native Applications
-- AI-powered Products
-- Developer Tools
-- Open Source Projects
-
----
-
-## What I Care About
-
-- Clean architecture
-- Simple and reliable systems
-- Performance and scalability
-- Practical engineering
-- Continuous learning
-
----
-
-## Contact
-
-- Email: [peter209393@gmail.com](mailto:peter209393@gmail.com)
-- GitHub: [peter209393](https://github.com/peter209393)
+[![Email](https://img.shields.io/badge/Email-admin@wangyusong.com-blue?logo=gmail&logoColor=white)](mailto:admin@wangyusong.com)
+[![GitHub](https://img.shields.io/badge/GitHub-peter209393-181717?logo=github&logoColor=white)](https://github.com/peter209393)
