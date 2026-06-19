@@ -8,10 +8,10 @@ I turn complex problems into clean, production-ready systems. Currently explorin
 
 ## 🛠️ Tech Stack
 
-**Languages:** Go · Rust · PHP · TypeScript
-**Backend:** Microservices · Event-driven Architecture · High-concurrency Services
-**Data:** PostgreSQL · MySQL · Redis · ClickHouse · MongoDB
-**Infra & Cloud:** Docker · Terraform · AWS · Cloudflare · Nginx · CI/CD
+- **Languages:** Go · Rust · PHP · TypeScript
+- **Backend:** Microservices · Event-driven Architecture · High-concurrency Services
+- **Data:** PostgreSQL · MySQL · Redis · ClickHouse · MongoDB
+- **Infra & Cloud:** Docker · Terraform · AWS · Cloudflare · Nginx · CI/CD
 
 ---
 
